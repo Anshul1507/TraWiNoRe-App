@@ -1,0 +1,290 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="overview_text1">India is a huge beautiful land full of wonders country. From the Himalayas to the Indian Ocean, from Thar desert to the snowy mountains of Sikkim, it is a country full of beautiful sights and beautiful people. India is characterized by diverse culture, exceptional historical monuments, fancy festivals and lively people. Thus, it is no surprise that the country is considered a major hub for tourists all around the world. Widely agreed, this vast country is full of exciting and interesting places to visit and explore.</string>
+    <string name="overview_text2"> There are 29 states and 7 union terrorties in India. Every state has its incredible beauty of heritage as well nation. Every state has its own religion story. In the field of literature and science India has produced emient person like Rabindranath Tagore, Premchand, Dr. AbdulKalam. India is a land of villages and fields laden with corps. Himalayas mountains has attracted many adventures to this land of rich culture.</string>
+    <string name="overview_text3">Because of many beautiful locations is the craze of tourists. The Taj Mahal, Lotus Temple, The Red Fort are few for the many wonders which attracts human curiosity. In Jammu and Kashmir, kashmir has been described as a paradise on earth. There are 22 languages constitutionally enjoy the status of official language but Hindi is the Mother tongue of India. Besides the major tourist attractions, Indian cities also provide a feeling of immense joy. Every city has a different culture, kinds of people and thus, the experience varies from place to place.</string>
+    <string name="overview_text4"> India is fulfil country with nature, adventure and many more you must visit India just to explore the experience of greatness. Indians are known for their greeting to their guest, Atithi devo bhava meaning "Guest is God". India\'\s culture and heritage are a rich amalgam of the past and the present. This vast country offers the visitor a view of fascinting religions and enthnography, a vast variety of languages with more than 438 living languages, and monuments that have been present for thousand of years. Mountains, jungles, deserts, beaches all you want to Travel India is have.</string>
+
+    <string name="tab_text_1">OVER VIEW</string>
+    <string name="tab_text_2">STATES</string>
+    <string name="tab_text_3">Delhi Guide</string>
+    <string name="delhi_tab_1">Monuments</string>
+    <string name="delhi_tab_2">Religious Places</string>
+    <string name="delhi_tab_3">Hotels</string>
+    <string name="delhi_tab_4">Hospitals</string>
+    <string name="delhi_tab_5">Malls</string>
+    <string name="delhi_tab_6">Cabs</string>
+    <string name="delhi_tab_7">Contacts</string>
+    <string name="delhi_tab_8">Booking</string>
+    <string name="state_tab_1">Over View</string>
+    <string name="state_tab_2">Visiting Time</string>
+    <string name="state_tab_3">Contact</string>
+    <string name="state_tab_4">NearBy Hotels</string>
+
+    <string name="delhi_layout"><center>Delhi is a city that has been <center>repeatedly ravaged and </center>reborn, with vestiges of lost empires in almost every neighbourhood. There\'\s so much to experience here, it\'\s like a country in itself.</center></string>
+    <string name="title_activity_delhi_details">DelhiDetails</string>
+    <string name="title_activity_state_info">StateInfo</string>
+
+    <string name="andhra_pradesh_overview">The Charminar which was built by Muhammad Quli Qutb Shahi in 1591 CE, is a monument and mosque located in Hyderabad, Telangana, India.
+    This landmark monument has become a global icon of Hyderabad, and is listed among the most recognized structures of India. It is the most famous building of Hyderabad aand also one of the most famous buildings in India.
+    It is believed that Muhammad Quli Qutb Shahi constructed it to celebrate the end of a deadly plague. The Charminaries near the bank of the river Musi and it is very close to Laad Bazaar and Makkah Masjid. The word Charminar is taken from two words \'\Char\'\ and \'\Minar\'\ which translate as Four Towers.
+    \n \n Charminar was the first structure to be constructed in the newly built city of hyderabad. |It is said that Quli Qutb Shahi prayed for the end of the plagueand vowed to build a mosque if it was eradicated.
+    Mir Momin Astrabadi,the prime minister of Qutb Shah played an important role in the design and layout of Charminar and the city of Hyderabad. The structure is of Indo-Islmaic architecture with some Persian elements. The city of Hyderabad was divided into four divisions equally around the Charminar.</string>
+    <string name="andhra_pradesh_tv_2">All days of the week. \n \n 9:00 AM - 5:30 PM</string>
+    <string name="andhra_pradesh_tv_3">Charminar, \n \n Hyderabad, \n \n Telangana. \n\n Phone: 040 6674 5986</string>
+
+    <string name="arunachal_pradesh_overview">Itanagar is the capital of Arunachal pradesh. Itanagar is situated at the foothills of Himalayas. The township is situated at an alititude of 350 m above sea level. It comes administratively under Papum Pare District.
+    \n \n Itanagar is well connected by road. There is a helicopter service between Guwahati and Naharlagun(Itanagar). Apart from the state administrative headquarters, the city presents a number of rich architectural wonders. The historical Ita Fort is made of scoio-cultural point. For a simple holidaymaker to an archeologist, this place can be of great value to be explored. The legendary Ganga Lake (Gyakar Sinwi) is a famous picnic spot in Itanagar which is 6 km from the heart of the city.
+    Jawaharlal Nehru Museum is a wonderful repository of indigenous tribal culture of Arunachal. Gompa Buddha Vihar is an astounding yellow roofed shrine. One can have a glimpse of the surrounding countryside from the gompa premise. Buy some local artifacts, wall paintings, herbal dyed yarns and bamboo/cane-made attractive utility items from Craft Centre and Emporioum. Polo Park, Indira Gandhi Park, and Zoological Park are some of the evening leisure walk spots.</string>
+    <string name="arunachal_pradesh_tv_2">The best time to visit Itanagar is between October and March, much like most places in Arunachal Pradesh. These months experience a cool breeze blowing in from the Himalayan foothills which temper the heat and humidity.
+    \n\n The avoidable months to travel to itanagar are again the treacherous monsoon between July and September. The winters remain cool.</string>
+    <string name="arunachal_pradesh_tv_3">Director Department of Tourism Govt. of Arunachal Pradesh Itanagar, \n\n Arunachal Pradesh \n\n India \n\n Phone: +91 360 221 4745</string>
+
+    <string name="assam_overview">Kaziranga National park, is a national park in the Golaghat and Nagaon districts of the state of Assam,India. The park 430 square kilometer area sprinkled with elephant grass meadows, swampy lagoons, and dense forests is home to more than 2200 Indian one-horned rhinoceros, approximately 2/3rd of their total world population.
+    Formed in 1908 on the recommedation of Mary Curzon, the park is located in the edge of the Eastern Himalayan biodiversity hotspots - Golaghat and Nagaon district. In the year 1985, the park was declared as a world Heriatge Site by UNESCO.
+    \n\n According to the census held in March 2015, which was jointly conducted by the Forest Department of the government of Assam and some recognized wildlife NGOs, the rhino population in Kaziranga National park is 2401. Kaziranga is home to the highest density of tigers among protected areas in the world, and was declared a Tiger Reserve in 2006. The park is home to large breeding populations of elephants, wild water buffalo, and swamp deer.
+    Kaziranga is recognized as an important bird area by bird life international for conservation of avifaunal species. When compared with other protected areas in India, Kaziranga has achieved notable success in wildlife conservation. Located on the edge of the Eastern Himalaya biodiversity hotspot, the park combines high species diversity and visibility.</string>
+    <string name="assam_tv_2">Best Time to visit \n\n November to April is the best time to visit Kaziranga Park. \n\n Summer(March-April) : During the time of the year, the climate remains dry and windy, one can find animals around the water bodies. \n\n Monsoon(May- October) : From May till October, the region receives heavy rain,approximately 2220 mm. \n The park remains closed from May to October due to warnings of Brahmaputra river floods.</string>
+    <string name="assam_tv_3">Director Department of Tourism Govt. of Assam, \n\n Assam \n\n India \n\n Phone: +03776 268 095</string>
+
+    <string name="home">Home</string>
+    <string name="about_us">About Developer</string>
+    <string name="about_text">  TraWiNoRe is the one stop \n destination to guide and \n about all places.
+        \n\n A WOW experience with the \n largest collection of Delhi \n Hotels, Monuments , Religious Places and Hospitals.
+        \n\n<b>Developer : Anshul Gupta \n\nCompany Name : CodeXonic \n \nVersion : 2.0 \n\n App Name : TraWiNoRe </b> </string>
+
+    <string name="feedback">Feedback</string>
+    <string name="exit">Exit</string>
+    <string name="about_header">About Dev.</string>
+    <string name="know_more">Click Here to know more about this.</string>
+    <string name="map_click">Click Here for DIRECTIONS.</string>
+    <string name="vtime">VISITING TIME</string>
+    <string name="contact">CONTACT</string>
+    <string name="login_header">TraWiNoRe</string>
+    <string name="login_Subheader">Travel With No Regrets</string>
+    <string name="button_login">Let\'\s Explore the World</string>
+    <string name="login_username">UserName</string>
+    <string name="login_password">Password</string>
+    <string name="spalsh_loading">loading...</string>
+    <string name="delhi_button">Let\'\s Explore Delhi</string>
+    <string name="search_bar">Enter state name</string>
+    <string name="link_click">Click on image for Online Booking.</string>
+
+    <string name="stateDetails_passValue">state</string>
+    <string name="MainAcitivity_title">TraWiNoRe</string>
+    <string name="MainAcitivity_mailto">mailto: ag1407anshul@gmail.com</string>
+    <string name="MainAcitivity_subject">Feedback for TraWiNoRe</string>
+    <string name="login_screen_username">Please enter a Username</string>
+    <string name="login_screen_password">Please enter a Password</string>
+    <string name="login_screen_password_length">Please enter more than 6 digit Password</string>
+    <string name="login_screen_NotificationTitle">Welcome to TraWiNoRe</string>
+    <string name="login_screen_NotificationText">Let\'\s Explore the World!!</string>
+
+    <string name="FragState_ArrayList_item1">Andhra Pradesh</string>
+    <string name="FragState_ArrayList_item2">Arunachal Pradesh</string>
+    <string name="FragState_ArrayList_item3">Assam</string>
+    <string name="FragState_ArrayList_item4">Bihar</string>
+    <string name="FragState_ArrayList_item5">Chhattishgarh</string>
+    <string name="FragState_ArrayList_item6">Delhi</string>
+    <string name="FragState_ArrayList_item7">Goa</string>
+    <string name="FragState_ArrayList_item8">Gujarat</string>
+    <string name="FragState_ArrayList_item9">Haryana</string>
+    <string name="FragState_ArrayList_item10">Himachal Pradesh</string>
+    <string name="FragState_ArrayList_item11">Jammu and Kashmir</string>
+    <string name="FragState_ArrayList_item12">Jharkhand</string>
+    <string name="FragState_ArrayList_item13">Karnatka</string>
+    <string name="FragState_ArrayList_item14">Kerala</string>
+    <string name="FragState_ArrayList_item15">Madhya Pradesh</string>
+    <string name="FragState_ArrayList_item16">Maharashtra</string>
+    <string name="FragState_ArrayList_item17">Manipur</string>
+    <string name="FragState_ArrayList_item18">Meghalaya</string>
+    <string name="FragState_ArrayList_item19">Mizoram</string>
+    <string name="FragState_ArrayList_item20">Nagaland</string>
+    <string name="FragState_ArrayList_item21">Odisha</string>
+    <string name="FragState_ArrayList_item22">Punjab</string>
+    <string name="FragState_ArrayList_item23">Rajasthan</string>
+    <string name="FragState_ArrayList_item24">Sikkim</string>
+    <string name="FragState_ArrayList_item25">Tamil Nadu</string>
+    <string name="FragState_ArrayList_item26">Telangana</string>
+    <string name="FragState_ArrayList_item27">Tripura</string>
+    <string name="FragState_ArrayList_item28">Uttarakhand</string>
+    <string name="FragState_ArrayList_item29">Uttar Pradesh</string>
+    <string name="FragState_ArrayList_item30">West Bengal</string>
+    <string name="FragState_passValue">state</string>
+
+    <string name="FragDelhiReligious_ArrayList_item1">AksharDham Temple</string>
+    <string name="FragDelhiReligious_ArrayList_item2">Laxminarayan Temple</string>
+    <string name="FragDelhiReligious_ArrayList_item3">The Redemption Church</string>
+    <string name="FragDelhiReligious_ArrayList_item4">Gurudwara Bangla Sahab</string>
+    <string name="FragDelhiReligious_ArrayList_item5">ISKCON Temple</string>
+    <string name="FragDelhiReligious_ArrayList_item6">Lotus Temple</string>
+    <string name="FragDelhiReligious_ArrayList_item7">Jama Masjid</string>
+    <string name="FragDelhiReligious_ArrayList_item8">Kalka Ji Temple</string>
+    <string name="FragDelhiReligious_ArrayList_item9">Hazrat Nizzamuddin Dargah</string>
+    <string name="FragDelhiReligious_ArrayList_item10">St. James Church</string>
+    <string name="FragDelhiReligious_passValue">religious</string>
+
+    <string name="FragDelhiMonuments_ArrayList_item1">India Gate</string>
+    <string name="FragDelhiMonuments_ArrayList_item2">Sansad Bhavan</string>
+    <string name="FragDelhiMonuments_ArrayList_item3">Rashtrapati Bhavan</string>
+    <string name="FragDelhiMonuments_ArrayList_item4">Purana Quila</string>
+    <string name="FragDelhiMonuments_ArrayList_item5">Red Fort</string>
+    <string name="FragDelhiMonuments_ArrayList_item6">Qutub Minar</string>
+    <string name="FragDelhiMonuments_ArrayList_item7">Jantar Mantar</string>
+    <string name="FragDelhiMonuments_ArrayList_item8">Humayun Tomb</string>
+    <string name="FragDelhiMonuments_passValue">monument</string>
+
+    <string name="FragDelhiMalls_ArrayList_item1">DLF Emporio</string>
+    <string name="FragDelhiMalls_ArrayList_item2">DLF Place Saket</string>
+    <string name="FragDelhiMalls_ArrayList_item3">City Square Mall</string>
+    <string name="FragDelhiMalls_ArrayList_item4">Pacific Mall</string>
+    <string name="FragDelhiMalls_ArrayList_item5">DT Shalimar Mall</string>
+    <string name="FragDelhiMalls_passValue">malls</string>
+
+    <string name="FragDelhiHotels_ArrayList_item1">The Legend Inn</string>
+    <string name="FragDelhiHotels_ArrayList_item2">Hotel Tourist</string>
+    <string name="FragDelhiHotels_ArrayList_item3">Hotel MetroPolis</string>
+    <string name="FragDelhiHotels_ArrayList_item4">The Taj Mahal Hotel</string>
+    <string name="FragDelhiHotels_ArrayList_item5">The Nanee Suits</string>
+    <string name="FragDelhiHotels_passValue">hotel</string>
+
+    <string name="FragDelhiHospitals_ArrayList_item1">Max Hospital</string>
+    <string name="FragDelhiHospitals_ArrayList_item2">RGCIRC Delhi</string>
+    <string name="FragDelhiHospitals_ArrayList_item3">AIIMS Delhi</string>
+    <string name="FragDelhiHospitals_ArrayList_item4">Fortis HealthCare</string>
+    <string name="FragDelhiHospitals_ArrayList_item5">Apollo Hospital</string>
+    <string name="FragDelhiHospitals_ArrayList_item6">Maharaja Agrasen Hospital</string>
+    <string name="FragDelhiHospitals_ArrayList_item7">Sir Ganga Ram Hospital</string>
+    <string name="FragDelhiHospitals_passValue">hospital</string>
+
+    <string name="FragDelhiContacts_ArrayList_item1">Police</string>
+    <string name="FragDelhiContacts_ArrayList_item2">Fire</string>
+    <string name="FragDelhiContacts_ArrayList_item3">Ambulance</string>
+    <string name="FragDelhiContacts_ArrayList_item4">Womens Helpline</string>
+    <string name="FragDelhiContacts_ArrayList_item5">Accident &amp; Trauma Servics</string>
+    <string name="FragDelhiContacts_ArrayList_item6">Child Helpline</string>
+    <string name="FragDelhiContacts_ArrayList_item7">Tourist City Info Services</string>
+    <string name="FragDelhiContacts_ArrayList_item8">Delhi Metro Helpline</string>
+    <string name="FragDelhiContacts_ArrayList_item9">Auto Helpline</string>
+    <string name="FragDelhiContacts_details_item1">tel: +0 100</string>
+    <string name="FragDelhiContacts_details_item2">tel: +0 101</string>
+    <string name="FragDelhiContacts_details_item3">tel: +0 102</string>
+    <string name="FragDelhiContacts_details_item4">tel: +0 1091</string>
+    <string name="FragDelhiContacts_details_item5">tel: +0 1099</string>
+    <string name="FragDelhiContacts_details_item6">tel: +0 1098</string>
+    <string name="FragDelhiContacts_details_item7">tel: +0 1280</string>
+    <string name="FragDelhiContacts_details_item8">tel: +0 112 256 1231</string>
+    <string name="FragDelhiContacts_details_item9">tel: +0 1095</string>
+
+    <string name="FragDelhiCabs_ArrayList_item1">OLA Cab</string>
+    <string name="FragDelhiCabs_ArrayList_item2">Taxi For Sure</string>
+    <string name="FragDelhiCabs_ArrayList_item3">Uber Cab</string>
+    <string name="FragDelhiCabs_ArrayList_item4">Easy Cab</string>
+    <string name="FragDelhiCabs_ArrayList_item5">Yo Cab</string>
+    <string name="FragDelhiCabs_ArrayList_item6">Meru Cab</string>
+    <string name="FragDelhiCabs_ArrayList_item7">Wyn Cab</string>
+    <string name="FragDelhiCabs_details_item1">tel: +0 113 350 0790</string>
+    <string name="FragDelhiCabs_details_item2">tel: +0 116 060 1010</string>
+    <string name="FragDelhiCabs_details_item3">tel: +1 866 576 1039</string>
+    <string name="FragDelhiCabs_details_item4">tel: +0 111 434 4343</string>
+    <string name="FragDelhiCabs_details_item5">tel: +0 114 466 4466</string>
+    <string name="FragDelhiCabs_details_item6">tel: +0 114 422 4422</string>
+    <string name="FragDelhiCabs_details_item7">tel: +91 114 800 0000</string>
+
+    <string name="FragDelhiBooking_ArrayList_item1">Online Hotels Booking</string>
+    <string name="FragDelhiBooking_ArrayList_item2">Online Bus Booking</string>
+    <string name="FragDelhiBooking_ArrayList_item3">Online Railway Booking</string>
+    <string name="FragDelhiBooking_ArrayList_item4">Online Air Booking</string>
+    <string name="FragDelhiBooking_online_item1">https://www.trivago.in/delhi-84766/hotel</string>
+    <string name="FragDelhiBooking_online_item2">http://www.dtcbooking.in/DTCOnline/</string>
+    <string name="FragDelhiBooking_online_item3">https://www.makemytrip.com/railways/new-delhi-ndls-railway-station.html</string>
+    <string name="FragDelhiBooking_online_item4">https://www.google.co.in/flights?lite=0#flt=DEL..2018-08-15*.DEL.2018-08-19;c:INR;e:1;a:AI*AI;sd:1;t:h</string>
+
+    <string name="DelhiDetails_Title">DELHI Guide</string>
+
+    <string name="Delhi_deep_text">Click Here to know more about this.</string>
+    <string name="Delhi_deep_text_map">Click Here for DIRECTIONS.</string>
+    <string name="Delhi_deep_text1">http://www.delhitourism.gov.in/delhitourism/tourist_place/india_gate.jsp</string>
+    <string name="Delhi_deep_text2">http://www.delhitourism.gov.in/delhitourism/tourist_place/parliment_house.jsp</string>
+    <string name="Delhi_deep_text3">https://rashtrapatisachivalaya.gov.in/rbtour/</string>
+    <string name="Delhi_deep_text4">http://www.delhitourism.gov.in/delhitourism/tourist_place/purana_quila.jsp</string>
+    <string name="Delhi_deep_text5">https://insightsindia.blogspot.com/2013/10/red-fort-new-delhi-travel-guide.html</string>
+    <string name="Delhi_deep_text6">http://www.delhitourism.gov.in/delhitourism/tourist_place/qutab_minar.jsp</string>
+    <string name="Delhi_deep_text7">http://www.delhitourism.gov.in/delhitourism/tourist_place/jantar_mantar.jsp</string>
+    <string name="Delhi_deep_text8">http://www.delhitourism.gov.in/delhitourism/tourist_place/humayun_tomb.jsp</string>
+    <string name="Delhi_deep_text9">http://www.delhitourism.gov.in/delhitourism/tourist_place/akshardham_temple.jsp</string>
+    <string name="Delhi_deep_text10">http://www.northindiatours.org/delhi-tourism/laxminarayan-temple.html</string>
+    <string name="Delhi_deep_text11">http://www.theredemptionchurch.org/home.php</string>
+    <string name="Delhi_deep_text12">http://www.indiatravelblog.com/resources/3669-Gurudwara-Bangla-Sahib-Delhi.aspx</string>
+    <string name="Delhi_deep_text13">http://www.delhitourism.gov.in/delhitourism/tourist_place/iskcon-temple.jsp</string>
+    <string name="Delhi_deep_text14">http://www.delhitourism.gov.in/delhitourism/tourist_place/bahai_temple.jsp</string>
+    <string name="Delhi_deep_text15">http://www.delhitourism.gov.in/delhitourism/tourist_place/jama_masjid.jsp</string>
+    <string name="Delhi_deep_text16">http://www.delhitourism.gov.in/delhitourism/tourist_place/birla_mandir.jsp</string>
+    <string name="Delhi_deep_text17">https://www.makemytrip.com/travel-guide/delhi/hazrat-nizamuddin-dargah-cultural.html</string>
+    <string name="Delhi_deep_text18">http://www.delhihelp.com/st.-james-church-delhi-delhi-tourism-article-318.aspx</string>
+    <string name="Delhi_deep_text19">https://www.tripadvisor.in/Hotel_Review-g304551-d729975-Reviews-The_Legend_Inn-New_Delhi_National_Capital_Territory_of_Delhi.html</string>
+    <string name="Delhi_deep_text20">https://www.tripadvisor.in/Hotel_Review-g304551-d4598495-Reviews-Hotel_Tourist-New_Delhi_National_Capital_Territory_of_Delhi.html</string>
+    <string name="Delhi_deep_text21">https://www.tripadvisor.in/Hotel_Review-g304551-d631510-Reviews-Metropolis_Tourist_Home-New_Delhi_National_Capital_Territory_of_Delhi.html</string>
+    <string name="Delhi_deep_text22">https://www.tripadvisor.in/Hotel_Review-g304551-d302182-Reviews-Taj_Mahal_Hotel-New_Delhi_National_Capital_Territory_of_Delhi.html</string>
+    <string name="Delhi_deep_text23">https://www.tripadvisor.in/Hotel_Review-g304551-d2011703-Reviews-The_Nanee_Suites-New_Delhi_National_Capital_Territory_of_Delhi.html</string>
+    <string name="Delhi_deep_text24">http://www.indiahospitaltour.com/max-hospitals-group.htm</string>
+    <string name="Delhi_deep_text25">http://www.rgcirc.org/</string>
+    <string name="Delhi_deep_text26">http://www.aiims.edu/</string>
+    <string name="Delhi_deep_text27">http://www.fortishealthcare.com/india/hospitals-in-delhi-ncr</string>
+    <string name="Delhi_deep_text28">https://www.apollohospitals.com/locations/india/delhi</string>
+    <string name="Delhi_deep_text29">https://mahdwarka.org/</string>
+    <string name="Delhi_deep_text30">https://www.sgrh.com/</string>
+    <string name="Delhi_deep_text31">http://www.dlfemporio.com/</string>
+    <string name="Delhi_deep_text32">http://dlfplace.in/</string>
+    <string name="Delhi_deep_text33">https://www.tripadvisor.in/Attraction_Review-g304551-d6041176-Reviews-City_Square_Mall-New_Delhi_National_Capital_Territory_of_Delhi.html</string>
+    <string name="Delhi_deep_text34">https://www.tripadvisor.in/Attraction_Review-g304551-d6041227-Reviews-Pacific_Mall-New_Delhi_National_Capital_Territory_of_Delhi.html</string>
+    <string name="Delhi_deep_text35">https://www.filmibeat.com/movie_listings/Delhi.html#Hindi</string>
+    <string name="Delhi_deep_text36">Please Select in given option </string>
+
+    <string name="Delhi_deep_map1">geo:37.7749,-122.4194?q=India Gate,New Delhi,India</string>
+    <string name="Delhi_deep_map2">geo:37.7749,-122.4194?q=Sansad Bhavan,New Delhi,India</string>
+    <string name="Delhi_deep_map3">geo:37.7749,-122.4194?q=Rashtrapati BhavanNew Delhi,India</string>
+    <string name="Delhi_deep_map4">geo:37.7749,-122.4194?q=Puaran Quila,New Delhi,India</string>
+    <string name="Delhi_deep_map5">geo:37.7749,-122.4194?q=Red Fort,New Delhi,India</string>
+    <string name="Delhi_deep_map6">geo:37.7749,-122.4194?q=Qutub Minar,New Delhi,India</string>
+    <string name="Delhi_deep_map7">geo:37.7749,-122.4194?q=Jantar Mantar,New Delhi,India</string>
+    <string name="Delhi_deep_map8">geo:37.7749,-122.4194?q=Humayun Tomb,New Delhi,India</string>
+    <string name="Delhi_deep_map9">geo:37.7749,-122.4194?q=AksharDham Temple,New Delhi,India</string>
+    <string name="Delhi_deep_map10">geo:37.7749,-122.4194?q=Laxminarayan Temple,New Delhi,India</string>
+    <string name="Delhi_deep_map11">geo:37.7749,-122.4194?q=The Redemption Church,New Delhi,India</string>
+    <string name="Delhi_deep_map12">geo:37.7749,-122.4194?q=Gurudwara Bangla Sahab,New Delhi,India</string>
+    <string name="Delhi_deep_map13">geo:37.7749,-122.4194?q=ISKCON Temple,New Delhi,India</string>
+    <string name="Delhi_deep_map14">geo:37.7749,-122.4194?q=Lotus Temple,New Delhi,India</string>
+    <string name="Delhi_deep_map15">geo:37.7749,-122.4194?q=Jama Masjid,New Delhi,India</string>
+    <string name="Delhi_deep_map16">geo:37.7749,-122.4194?q=Kalka Ji Temple,New Delhi,India</string>
+    <string name="Delhi_deep_map17">geo:37.7749,-122.4194?q=Hazrat Nizzamuddin Dargah,New Delhi,India</string>
+    <string name="Delhi_deep_map18">geo:37.7749,-122.4194?q=St. James Church,New Delhi,India</string>
+    <string name="Delhi_deep_map19">geo:37.7749,-122.4194?q=The Legend Inn,New Delhi,India</string>
+    <string name="Delhi_deep_map20">geo:37.7749,-122.4194?q=Hotel Tourist,New Delhi,India</string>
+    <string name="Delhi_deep_map21">geo:37.7749,-122.4194?q=Hotel MetroPolis,New Delhi,India</string>
+    <string name="Delhi_deep_map22">geo:37.7749,-122.4194?q=The Taj Mahal Hotel,New Delhi,India</string>
+    <string name="Delhi_deep_map23">geo:37.7749,-122.4194?q=The Nanee Suits,New Delhi,India</string>
+    <string name="Delhi_deep_map24">geo:37.7749,-122.4194?q=Max Hospital,New Delhi,India</string>
+    <string name="Delhi_deep_map25">geo:37.7749,-122.4194?q=RGCIRC,New Delhi,India</string>
+    <string name="Delhi_deep_map26">geo:37.7749,-122.4194?q=AIIMS,New Delhi,India</string>
+    <string name="Delhi_deep_map27">geo:37.7749,-122.4194?q=Fortis HealthCare,New Delhi,India</string>
+    <string name="Delhi_deep_map28">geo:37.7749,-122.4194?q=Apollo Hospital,New Delhi,India</string>
+    <string name="Delhi_deep_map29">geo:37.7749,-122.4194?q=Maharaja Agrasen Hospital,New Delhi,India</string>
+    <string name="Delhi_deep_map30">geo:37.7749,-122.4194?q=Sir Ganga Ram Hospital,New Delhi,India</string>
+    <string name="Delhi_deep_map31">geo:37.7749,-122.4194?q=DLF Emporio,New Delhi,India</string>
+    <string name="Delhi_deep_map32">geo:37.7749,-122.4194?q=DLF Place Saket,New Delhi,India</string>
+    <string name="Delhi_deep_map33">geo:37.7749,-122.4194?q=City Square Mall,New Delhi,India</string>
+    <string name="Delhi_deep_map34">geo:37.7749,-122.4194?q=India Gate,Pacific Mall,India</string>
+    <string name="Delhi_deep_map35">geo:37.7749,-122.4194?q=DT Shalimar Mall,New Delhi,India</string>
+    <string name="Delhi_deep_map36">Please Select in given option</string>
+    <string name="Delhi_deep_map_package">com.google.android.apps.maps</string>
+    <string name="Delhi_deep_passMonument">monument</string>
+    <string name="Delhi_deep_passReligious">religious</string>
+    <string name="Delhi_deep_passHotels">hotel</string>
+    <string name="Delhi_deep_passHospitals">hospital</string>
+    <string name="Delhi_deep_passMalls">malls</string>
+
+
+
+
+</resources>

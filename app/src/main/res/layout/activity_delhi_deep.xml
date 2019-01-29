@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Delhi_deep">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".Delhi_deep">
+
+        <ImageView
+            android:id="@+id/image_delhi_deep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp" />
+
+        <TextView
+            android:id="@+id/textView_delhi_deep"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/image_delhi_deep"
+            android:layout_margin="20dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView_delhi_deep"
+            android:layout_marginLeft="20dp"
+            android:text="@string/know_more"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_link_map"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_link"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/map_click"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_time_delhi_deep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_link_map"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:text="@string/vtime"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2_delhi_deep"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tv_time_delhi_deep"
+            android:layout_margin="20dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_Contact_delhi_deep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView2_delhi_deep"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:text="@string/contact"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView3_delhi_deep"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tv_Contact_delhi_deep"
+            android:layout_margin="20dp"
+            android:textSize="16sp" />
+
+    </RelativeLayout>
+</ScrollView>
